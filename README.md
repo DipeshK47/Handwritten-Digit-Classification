@@ -65,7 +65,7 @@ To run this project locally, follow these steps:
 
 To train the ANN model:
 
-1. **Run the jupyter notebook.
+1. Run the jupyter notebook.
 
 2. This script trains the model on the training set and evaluates it on the test set.
 
@@ -86,4 +86,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-                                                                                    ***
+                        
